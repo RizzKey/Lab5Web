@@ -77,6 +77,23 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis seperti berikut.
 Kemudian saya mencoba menekan tombol CheckList pada menu "Ayam Goreng" "Tempe Goreng" dan "Telur Dadar" maka akan keluar tampilan seperti berikut 
 ![image](https://user-images.githubusercontent.com/56240954/116361491-3d462780-a82b-11eb-8fd0-05d8fd5214b7.png)
 
+# TUGAS
+# 1. Buat script untuk melakukan validasi pada isian form.
+Buat form pada ```lab5_javascript.html```
+![image](https://user-images.githubusercontent.com/56240954/116361872-a9289000-a82b-11eb-8a10-c5e9517731e9.png)
+
+Buat halaman beranda ```beranda.html```
+![image](https://user-images.githubusercontent.com/56240954/116362038-d412e400-a82b-11eb-8208-be53245fa2a2.png)
+
+Tambahkan CSS untuk mempercantikan tampilan
+![image](https://user-images.githubusercontent.com/56240954/116362103-e5f48700-a82b-11eb-9d7d-f4a43248df0e.png)
+
+Hasil Akhir
+![image](https://user-images.githubusercontent.com/56240954/116362171-f86ec080-a82b-11eb-93ff-dfa111402e02.png)
+![image](https://user-images.githubusercontent.com/56240954/116362237-0cb2bd80-a82c-11eb-823d-5ba9c5f3f443.png)
+
+
+
 
 
 
